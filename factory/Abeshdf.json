@@ -1,0 +1,15 @@
+{
+	"name": "Abeshdf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8fb8c92-ca09-4653-93d1-da816e6e3fe7",
+		"tenantId": "04e5349c-1795-44ea-82cd-9ccd6c69380e"
+	}
+}
